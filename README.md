@@ -54,6 +54,6 @@ Here are some ideas to get you started:
 <br />
 
 <img  align="left"  alt="Farid Shadmanli Github Stats"  src="https://github-readme-stats.vercel.app/api?username=faredshadman&show_icons=true&hide_border=true&theme=radical" />
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=jmlhsynv&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=faredshadman&layout=compact&theme=radical" />
 
 
