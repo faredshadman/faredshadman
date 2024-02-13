@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 [<img align="left" target="_blank" alt="Farid Shadmanli | Instagram" width="30px" src="https://camo.githubusercontent.com/c9dacf0f25a1489fdbc6c0d2b41cda58b77fa210a13a886d6f99e027adfbd358/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f696e7374616772616d2e737667" />](https://www.instagram.com/faredshadman/)
 
-[<img align="left" target="_blank" alt="Farid Shadmanli | Facebook" width="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.m.wikipedia.org%2Fwiki%2FFile%3AFacebook_Logo_2023.png&psig=AOvVaw3jofaOHvs4eik-iqE6_7MC&ust=1707944818027000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDD57KcqYQDFQAAAAAdAAAAABAE" />](https://www.facebook.com/feridhelios/)
+[<img align="left" target="_blank" alt="Farid Shadmanli | Facebook" width="30px" src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-plain.svg" />](https://www.facebook.com/feridhelios/)
   
 </div>
 
