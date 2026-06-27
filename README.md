@@ -149,10 +149,7 @@ At **Neurotime** I worked across the full stack — from data collection pipelin
 
 ---
 
-## 🚀 Featured Projects
-
-- **🛍️ Bebis Kids** — A children's goods store platform (Sumqayit) with a full React admin dashboard: product CRUD, stock & discount management, and ad-campaign tools, fully localized in Azerbaijani with ₼ pricing.
-- **🔧 Xidmət Bazarı** — A React Native / Expo / TypeScript home-services marketplace (an OLX + Upwork hybrid) featuring a feature-first architecture, TanStack Query, Zustand, JWT auth, and an "urgent call" flow.
+## 🚀 Projects
 
 ### 🔒 Private Projects
 
